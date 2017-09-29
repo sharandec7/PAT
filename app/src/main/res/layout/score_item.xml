@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/match_score_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="score or start"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/match_overs_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/match_score_start"
+        android:gravity="center_horizontal"
+        android:text="overs or time " />
+
+    <TextView
+        android:id="@+id/needed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/match_overs_time"
+        android:gravity="center_horizontal"
+        android:text="150 Runs needed in 10 overs" />
+</RelativeLayout>

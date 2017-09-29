@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-2af11fe0d8817a8256d2c843ae740563a720b3e9.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-ea926865fa680d3316d28f65e3dc7165513e7585.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-404a0eb150272dde6bf7d4489a944871f2e1241b.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-e00263d065fb410e0cbfd714e0dc8a0003f13c14.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-aec3c646b8355bafda29952785edf2dfa80b3d12.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-90fb4485d1ec73ef7be9d902c4b51270d374cfd8.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-a334b627d80d634b2b7752a596f78fe222874a61.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-ea64f70accd3acf5c4eb6bcd7e2460e7d1105319.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-6732a3409ed6643741a7d15cb22e0bf9ba4a66a9.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-905443a9ceb8882b958f8508060330dbeacdb4bf.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-3fca101c3b338e8e39b86653b96b2ebabfe033c6.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-b04121b2e225cf6971a2c719393dd934004e2ea4.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-a7257d812959cd6f22f8ec566031ec2793f6f764.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-89bf3b5559cc5c5ae7eef5790b80fba9ae2292ae.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-f4060558dac1401e90ecdaf688873de0c1f05a1b.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-259240227647fd24e9fa675a571bddac84358cc9.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-012b459a176e1645e88907ae4cbb7618f2496e45.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-c20e05881c6c53b467265e88551f6bc3d9813a69.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-50dafd160d2388819758f0f69436cc8cd564fe82.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-2f2f9981bf2a5faf219abf72e0b477457657037e.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-fa6a7ec507251e89d12aaed6a98fffcbcb5a2042.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-e2b02847213d14c21c590c065c47368878e4155d.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-3baf4ba90c0449027c104eb463f4e6395eb6b913.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-5c7604d80672801b0d705473a8aaee8d74c8a3c1.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-6f6bf4a5a4ed61edae06fb5eb54fd8a2f9e31f40.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-6121af8cf0028c46950e3d0b26870232762cd1dd.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-49bb6b9f7c8ab15e68a10047ef529812bd5218ad.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-890ea912ecc971c5d37b8727d507d484c61611cc.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-5cd378136fc7cd52daaf0a4bcc1b5be2781defd6.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/libs/gcm.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/gcm-b9ab55ab84cfff4310bf090faf613f97655b8612.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-77d510a78f9d01de984af069e1d5eb879fb92804.jar" />
+    </item>
+    <item
+        jar="/Users/sharandec7/Downloads/PAT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/sharandec7/Downloads/PAT/app/build/intermediates/pre-dexed/debug/classes-1070906814040fb2412ac76617e1f1da5ca64d22.jar" />
+    </item>
+
+</items>

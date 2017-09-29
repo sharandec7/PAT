@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<?xml version="1.0" encoding="utf-8"?> -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/appBackground"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <RelativeLayout
+        android:id="@+id/brand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:id="@+id/brand_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/place_me" />
+
+            <TextView
+                android:id="@+id/brand_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/brand_logo"
+                android:paddingBottom="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="16dp"
+                android:text="lace Me"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lt_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/brand"
+        android:background="#ddd">
+
+        <Button
+            android:id="@+id/bt_login"
+            style="bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:allowUndo="false"
+            android:autoText="false"
+            android:background="#ddd"
+            android:text="Log In"
+            android:textColor="#333" />
+
+        <Button
+            android:id="@+id/bt_signup"
+            style="bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:allowUndo="false"
+            android:background="#ddd"
+            android:text="Sign Up"
+            android:textColor="#333" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lt_buttons"
+        android:layout_marginTop="20dp"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/et_name"
+            style="@style/EditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lt_common"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lt_name"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/et_email"
+            style="@style/EditText"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:hint="Email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/et_password"
+            style="@style/EditText"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:hint="Password"
+            android:inputType="textPassword" />
+    </LinearLayout>
+
+    <ViewFlipper
+        android:id="@+id/view_flipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lt_common"
+        android:animateFirstView="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bt_sign_in"
+                style="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:allowUndo="true"
+                android:background="@color/colorPrimary"
+                android:text="Sign In"
+                android:textColor="#fff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="College Name:"
+                android:textSize="16dp" />
+
+            <Spinner
+                android:id="@+id/college_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#eee" />
+
+            <EditText
+                android:id="@+id/et_phone"
+                style="@style/EditText"
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:ems="10"
+                android:hint="Contact Number"
+                android:inputType="phone" />
+
+            <CheckBox
+                android:id="@+id/admin_check"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ADMIN" />
+
+            <Button
+                android:id="@+id/bt_create"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@color/colorPrimary"
+                android:text="Create Account"
+                android:textColor="#fff" />
+        </LinearLayout>
+
+    </ViewFlipper>
+</RelativeLayout><!--<TextView
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="10dip"
+android:layout_marginRight="10dip"
+android:layout_marginTop="20dip"
+android:text="Full Name:" />
+
+<EditText
+android:id="@+id/txtName"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_margin="10dip"
+android:layout_marginBottom="20dip" />
+
+<TextView
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="10dip"
+android:layout_marginRight="10dip"
+android:text="Email:" />
+
+<EditText
+android:id="@+id/txtEmail"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_margin="10dip"
+android:layout_marginBottom="20dip" />
+
+<TextView
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="10dip"
+android:layout_marginRight="10dip"
+android:text="College:" />
+
+<EditText
+android:id="@+id/txtCollege"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_margin="10dip"
+android:layout_marginBottom="20dip" />
+
+<Button
+android:id="@+id/btnRegister"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_margin="10dip"
+android:text="Register" />
+
+    </LinearLayout> -->

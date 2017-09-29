@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">PlaceMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">NEXT</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="more">More...</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+
+    <string-array name="tabs">
+        <item> Live Scores </item>
+        <item> Results </item>
+        <item> Upcoming </item>
+    </string-array>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <string name="title_activity_drive_page">DrivePage</string>
+    <string name="large_text">
+        "Drive Details will be displayed here."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_register_team">RegisterTeamActivity</string>
+    <string name="success_message">"You have successfully registered your team,\n Click OK to continue "</string>
+    <string name="Placeme">laceMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="title_push_notification">PushNotificationActivity</string>
+    <string name="cred">cred</string>
+    <string name="name">name</string>
+    <string name="contact">contact</string>
+    <string name="college">college</string>
+    <string name="logged_user">logged_user</string>
+    <string name="type">type</string>
+    <string name="drives">drives</string>
+    <string name="companies">companies</string>
+    <string name="questions">questions</string>
+    <string name="test_reports">test_reports</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="guidelines">" &#8226; The Test will be an aptitude Test. \n \n &#8226; Consisting of 10 Multiple Choice Questions MCQs. \n \n &#8226; The time allocated will be 10 minutes. \n \n &#8226; The test closes and report will be generated based on submitted answers immediately after elapsing of time limit.\n  \n &#8226; Read the questions carefully before answering. \n \n  ALL THE BEST!"</string>
+    <string name="colleges_json">colleges_json</string>
+    <string name="yop">yop</string>
+    <string name="aggregate">aggregate</string>
+    <string name="backlogs">backlogs</string>
+    <string name="update_done">update_done</string>
+    <string name="logged_user_data">logged_user_data</string>
+    <string name="regId">regID</string>
+    <string name="branch">branch</string>
+    <string name="pending">pending</string>
+    <string name="reg_success">registration_success</string>
+</resources>

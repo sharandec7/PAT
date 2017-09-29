@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time_holder"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="What is your name ?"
+        android:textColor="@color/colorPrimary"
+        android:textSize="24dp" />
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/question"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <RadioGroup
+                android:id="@+id/radioOptions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+                <RadioButton
+                    android:id="@+id/op1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:padding="10dp"
+                    android:text="option 1"
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/op2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/cb_1"
+                    android:padding="10dp"
+                    android:text="option 4"
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/op3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/cb_2"
+                    android:padding="10dp"
+                    android:text="option 3"
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/op4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/cb_3"
+                    android:padding="10dp"
+                    android:text="option 2"
+                    android:textSize="20dp"/>
+
+
+            </RadioGroup>
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
